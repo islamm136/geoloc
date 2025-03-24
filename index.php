@@ -1,3 +1,9 @@
+<?php
+header("Cache-Control: no-cache, no-store, must-revalidate");
+header("Expires: 0");
+header("Pragma: no-cache");
+?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
