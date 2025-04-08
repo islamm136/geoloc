@@ -1,7 +1,7 @@
 # geoloc
 
 ```bash
-php -S localhost:8080з
+php -S localhost:8080
 ```
 
 ```bash
@@ -17,5 +17,5 @@ git commit -m 'new link'
 ```
 
 ```bash
-git push
+git pushwwwa
 ```
